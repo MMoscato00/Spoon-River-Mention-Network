@@ -8,8 +8,7 @@ The three datasets are as follows:
 
 To load the node and edge data into a directed network using NetworkX, you can use the following Python code:
 
------------------------------
-
+```python
 import pandas as pd
 import networkx as nx
 
@@ -31,11 +30,10 @@ for _, row in edges_df.iterrows():
                Edition_Source=row['Edition_Source'], 
                Sentiment_value=row['Sentiment_value_Lewistown_From Source toTarget'])
 
--------------------------------
-
+```
 If you are using Google Colab, you can use the following code:
 
-------------------------------
+```python
 import pandas as pd
 import networkx as nx
 from google.colab import files
@@ -60,7 +58,7 @@ for _, row in edges_df.iterrows():
                Edition_Source=row['Edition_Source'], 
                Sentiment_value=row['Sentiment_value_Lewistown_From Source toTarget'])
 
---------------------------
+```
 
 At this point, you can use libraries for data visualization or extract data from the directed network. 
 Below, I have included the libraries used and links to their official documentation:
