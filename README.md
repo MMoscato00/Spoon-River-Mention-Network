@@ -69,5 +69,5 @@ Below, I have included the libraries used and links to their official documentat
 - Pandas: https://pandas.pydata.org/docs/
 
 If you encounter issues using these libraries, I recommend the following valuable YouTube videos:
-Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX: https://www.youtube.com/watch?v=fAHkJ_Dhr50&t=1234s    by Thu Vu data analytics
-Introduction to Network Analysis by Analyzing Characters in Harry Potter Fanfiction - Sara Jakša: https://www.youtube.com/watch?v=UYxX4c97iAc     by Python Italia
+- Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX: https://www.youtube.com/watch?v=fAHkJ_Dhr50&t=1234s    by Thu Vu data analytics
+- Introduction to Network Analysis by Analyzing Characters in Harry Potter Fanfiction - Sara Jakša: https://www.youtube.com/watch?v=UYxX4c97iAc     by Python Italia
