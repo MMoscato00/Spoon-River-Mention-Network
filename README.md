@@ -1,5 +1,5 @@
 # Spoon-River-Mention-Network
-This repository contains all datasets created for the character network analysis of the Spoon River Anthology, conducted as part of a Master’s thesis project in Digital and Public Humanities titled “Analyzing and Reaccessing Texts through Character Interaction Networks: The Interpoetic Narrative of the Spoon River Anthology" written by Mattia Moscato (Hi!).
+This repository contains all datasets created for the character network analysis of the Spoon River Anthology, conducted as part of a Master’s thesis project in Digital and Public Humanities titled “Analyzing and Reaccessing Texts through Character Interaction Networks: The Interpoetic Narrative of the Spoon River Anthology" written by Mattia Moscato (Hi!). 
 
 The three datasets are as follows:
 1. Sentiment Analysis Data: Data obtained from the sentiment analysis of poems that reference characters/poems from the anthology, inspired by residents of Lewistown.
@@ -71,3 +71,5 @@ Below, I have included the libraries used and links to their official documentat
 If you encounter issues using these libraries, I recommend the following valuable YouTube videos:
 - Network of The Witcher | Relationship Extraction & Network Analysis with Spacy & NetworkX: https://www.youtube.com/watch?v=fAHkJ_Dhr50&t=1234s    by Thu Vu data analytics
 - Introduction to Network Analysis by Analyzing Characters in Harry Potter Fanfiction - Sara Jakša: https://www.youtube.com/watch?v=UYxX4c97iAc     by Python Italia
+
+To return to the project web page click this link: https://mmoscato00.github.io/MentionNetworkMattiaMoscatoSpoonRiver/
