@@ -1,5 +1,5 @@
 # Spoon-River-Mention-Network
-This repository contains all datasets created for the character network analysis of the Spoon River Anthology, conducted as part of a Master’s thesis project in Digital and Public Humanities titled “Analyzing and Reaccessing Texts through Character Interaction Networks: The Interpoetic Narrative of the Spoon River Anthology" written by Mattia Moscato (Hi!). 
+This repository contains all datasets created for the character network analysis of the Spoon River Anthology, conducted as part of a Master’s thesis project in Digital and Public Humanities titled “Analysing and Reaccessing Texts through Character Interaction Networks: The Interpoetic Narrative of the Spoon River Anthology" written by Mattia Moscato (Hi!). 
 
 The three datasets are as follows:
 1. Sentiment Analysis Data: Data obtained from the sentiment analysis of poems that reference characters/poems from the anthology, inspired by residents of Lewistown.
